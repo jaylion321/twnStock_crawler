@@ -1,4 +1,5 @@
 # twnStock_crawler
+目前是以Synchronous request 的 libray requests 來coding
 
 ### Todo List
 #### 同時開多個request
